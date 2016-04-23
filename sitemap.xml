@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://cosmonauta.com/assets/adobe-muse-stars.mulib</loc>
-    <lastmod>2015-12-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://cosmonauta.com/assets/09_icon_ag.jpg</loc>
     <lastmod>2016-04-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,38 +13,20 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cosmonauta.com/images/-1.jpg</loc>
-    <lastmod>2016-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cosmonauta.com/images/-2.jpg</loc>
-    <lastmod>2016-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cosmonauta.com/images/-3.jpg</loc>
-    <lastmod>2016-04-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://cosmonauta.com/index.html</loc>
-    <lastmod>2016-04-22</lastmod>
+    <lastmod>2016-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cosmonauta.com/teste-imagens.html</loc>
-    <lastmod>2016-04-22</lastmod>
+    <loc>http://cosmonauta.com/relat%C3%B3rios.html</loc>
+    <lastmod>2016-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cosmonauta.com/sistema.html</loc>
-    <lastmod>2016-04-22</lastmod>
+    <loc>http://cosmonauta.com/descobertas.html</loc>
+    <lastmod>2016-04-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

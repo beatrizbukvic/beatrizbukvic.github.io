@@ -1,17 +1,3 @@
-a:hover
-{
-	color: #29ABE2;
-	text-decoration: inherit;
-}
-
-a.nontext /* used to override default properties of 'a' tag */
-{
-	color: black;
-	text-decoration: none;
-	font-style: normal;
-	font-weight: normal;
-}
-
 html
 {
 	min-height: 100%;
@@ -110,10 +96,36 @@ body
 	font-feature-settings: 'liga';
 }
 
-a
+a:link
 {
-	color: inherit;
-	text-decoration: inherit;
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+a:visited
+{
+	color: #800080;
+	text-decoration: underline;
+}
+
+a:hover
+{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+a:active
+{
+	color: #EE0000;
+	text-decoration: underline;
+}
+
+a.nontext /* used to override default properties of 'a' tag */
+{
+	color: black;
+	text-decoration: none;
+	font-style: normal;
+	font-weight: normal;
 }
 
 .normal_text
@@ -131,26 +143,6 @@ a
 	text-indent: 0px;
 	text-transform: none;
 	vertical-align: 0px;
-	padding: 0px;
-}
-
-.h2
-{
-	color: #FFFFFF;
-	font-family: kings-caslon-display, sans-serif;
-	font-size: 48px;
-	font-weight: 400;
-	text-align: center;
-	text-decoration: underline;
-	padding: 0px;
-}
-
-.h3
-{
-	color: #FFFFFF;
-	font-family: kings-caslon-display, sans-serif;
-	font-size: 24px;
-	font-weight: 400;
 	padding: 0px;
 }
 
